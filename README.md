@@ -16,3 +16,8 @@ Testing from Android Studio have been done with an Emulated Google Pixel XL (And
 ## More info
 
 See [javadoc](https://jose-r-lopez.github.io/LightPen/) of the current version of the project
+
+## Author
+
+Iñigo Llaneza Aller
+Jose Manuel Redondo López
