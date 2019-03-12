@@ -25,6 +25,44 @@ Currently, Lightpen implements the following plugins. Each plugin is a different
 This is an ongoing research project to test the feasibility of a portable auditing system, and therefore
 is still under development. 
 
+## Usage
+
+Once the application runs you will see the welcome screen. From here we can perform a new test or check the previous ones.
+
+![Welcome screen](images/welcome.jpg)
+
+If we decide to perform a new test, we first have to choose a target. The validate address button enables us to check if it is reachable.
+
+![Unreachable system](images/failURL.JPG)
+
+If the text field turns green, the target is reachable from the application. If turned red, the pentest activity cannot be performed over this target from the current location.
+
+![Reachable system](images/okURL.JPG)
+
+If the target is reachable, we can choose any combination of plugins available (see previous section)
+
+![Choosing tests](images/testSelect.JPG)
+
+Once the tests finish, we can review their results in the generated results HTML page
+  
+![Test results](images/results.JPG)
+
+The report can be shared with any installed application accepting text/html format or saved to a file
+
+![Share or save results](images/ShareSave.JPG)
+
+Saving to a file needs confirmation.
+
+![Save results](images/Save.JPG)
+
+Once saved, we can review a list of the previous test that the tool has made and its complete results.
+
+![Previous tests](images/TestList.JPG)
+
+The application also has a small configuration section accessible from the welcome screen.
+ 
+![Configuration screen](images/Configuration.JPG)
+
 ## Sources and binaries
 
 The last stable version of the source code and its binaries are available in the [releases](https://github.com/jose-r-lopez/LightPen/releases) section.
