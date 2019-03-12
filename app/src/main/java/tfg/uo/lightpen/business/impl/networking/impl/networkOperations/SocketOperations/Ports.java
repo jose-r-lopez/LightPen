@@ -1,17 +1,8 @@
 package tfg.uo.lightpen.business.impl.networking.impl.networkOperations.SocketOperations;
 
-import android.util.Log;
-
 import java.net.HttpURLConnection;
-import java.net.Inet4Address;
 import java.net.InetAddress;
-import java.net.InetSocketAddress;
-import java.net.Socket;
-import java.net.SocketTimeoutException;
-import java.net.URL;
-import java.net.UnknownHostException;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Future;
