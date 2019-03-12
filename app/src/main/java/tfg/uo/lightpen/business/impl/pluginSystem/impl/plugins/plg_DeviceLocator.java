@@ -73,6 +73,8 @@ public class plg_DeviceLocator implements Plugin {
                     .getString(R.string.dloc_hostname) + "</th>\n";
             ans += "<th>" + ctxD.getContext()
                     .getString(R.string.dloc_mac) + "</th>\n";
+            ans += "<th>" + ctxD.getContext()
+                    .getString(R.string.dloc_manufacturer) + "</th>\n";
             ans += "</tr>\n";
             for (Error e : errores) {
                 ans += "<tr>\n";

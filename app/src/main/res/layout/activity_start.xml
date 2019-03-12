@@ -37,11 +37,13 @@
                 android:layout_height="wrap_content"
                 android:onClick="penTestStart"
                 android:text="@string/startTestButton_principal"
+                android:textSize="18sp"
                 android:layout_alignParentTop="true"
                 android:layout_alignParentStart="true"
                 android:layout_marginTop="205dp"
                 android:layout_alignParentEnd="true"
                 android:drawableLeft="@android:drawable/ic_menu_view"
+
                 />
 
             <Button
@@ -50,6 +52,7 @@
                 android:layout_height="wrap_content"
                 android:onClick="historyStart"
                 android:text="@string/historyButton_principal"
+                android:textSize="18sp"
                 android:layout_below="@+id/pentestStartButton_start"
                 android:layout_alignParentStart="true"
                 android:layout_marginTop="27dp"

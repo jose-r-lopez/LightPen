@@ -83,6 +83,7 @@
     <string name="dloc_nodevices">No devices found at the moment.</string>
 
     <string name="dloc_description">Locate devices active in the local network</string>
+    <string name="dloc_manufacturer">Manufacturer</string>
     <string name="PortScan_protocol">Protocol</string>
     <string name="PortScan_servicename">Service name</string>
     <string name="PortScan_servicedescription">Description</string>

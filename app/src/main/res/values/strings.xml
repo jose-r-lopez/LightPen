@@ -151,6 +151,7 @@
     <string name="dloc_ip" translatable="false">IP</string>
     <string name="dloc_hostname" translatable="false">Hostname</string>
     <string name="dloc_mac" translatable="false">MAC</string>
+    <string name="dloc_manufacturer">Manufacturer</string>
     <string name="dloc_nodevices">No devices found at the moment.</string>
 
     <!-- Plugin Comments -->

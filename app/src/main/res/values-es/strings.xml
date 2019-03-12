@@ -83,6 +83,7 @@
 
     <string name="dloc_description">Localiza dispositivos activos en la red local</string>
     <string name="dloc_nodevices">No se han encontrado dispositivos en este momento.</string>
+    <string name="dloc_manufacturer">Fabricante</string>
 
     <string name="PortScan_protocol">Protocolo</string>
     <string name="PortScan_servicename">Servicio</string>
