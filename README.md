@@ -65,9 +65,18 @@ The application also has a small configuration section accessible from the welco
 
 ## Pentesting results examples
 
-This is a sample scan to the popular website scanme.nmap.org:
-
-[Pentest to scanme.nmap.org](/pentestingResults/Lightpen_Report_scanme.html)
+* This is a sample scan to the popular website scanme.nmap.org: [Pentest to scanme.nmap.org](/pentestingResults/Lightpen_Report_scanme.html)
+* This is a scan with all plugins active: [AllPlugins](/pentestingResults/LightpenReportAllPlugins.html)
+* This is a scan with the Comments plugin: [Comments](/pentestingResults/LightpenReportComments.html)
+* This is a scan with the Device Locator plugin: [Devices](/pentestingResults/LightpenReportDevices.html)
+* This is a scan with the Directory Listing plugin: [DirListing](/pentestingResults/LightpenReportDirListing.html)
+* This is a scan with the Error Pages plugin: [Devices](/pentestingResults/LightpenReportErrorPages.html)
+* This is a scan with the HTTP Headers plugin: [Devices](/pentestingResults/LightpenReportHeaders.html)
+* This is a scan with the HTTP Methods plugin: [Devices](/pentestingResults/LightpenReportMethods.html)
+* This is a scan with the Port Scan plugin: [Devices](/pentestingResults/LightpenReportPorts.html)
+* This is a scan with the Robots.txt plugin: [Devices](/pentestingResults/LightpenReportRobots.html)
+* This is a scan with the HTTP Headers plugin where a Server header is located and reported: [Devices](/pentestingResults/LightpenReportServer.html)
+* This is a scan with the URL Scan plugin: [Devices](/pentestingResults/LightpenReportURLScan.html)
 
 
 ## Sources and binaries
