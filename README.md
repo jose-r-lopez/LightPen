@@ -63,6 +63,13 @@ The application also has a small configuration section accessible from the welco
  
 ![Configuration screen](images/Configuration.JPG)
 
+## Pentesting results examples
+
+This is a sample scan to the popular website scanme.nmap.org:
+
+[Pentest to scanme.nmap.org](/pentestingResults/Lightpen_Report_scanme.html)
+
+
 ## Sources and binaries
 
 The last stable version of the source code and its binaries are available in the [releases](https://github.com/jose-r-lopez/LightPen/releases) section.
